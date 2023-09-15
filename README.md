@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aashish Chaudhary</h1>
+<h1 align="center">Hi 👋, I'm Dev Chaudhary</h1>
 <h3 align="center">An enthusiastic fresher with highly motivated and leadership skills pursuing bachelors of engineering degree in Computer Science Engineering.</h3>
 
 - 🔭 I’m currently working on [Music Webpage](https://tushar202108.github.io/Musicweb/)
