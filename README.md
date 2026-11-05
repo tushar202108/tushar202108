@@ -33,26 +33,26 @@
 
 ### 📊 GitHub Stats & Metrics:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tushar202108&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tushar202108&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tushar202108&show_icons=true&theme=radical&count_private=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=tushar202108&theme=radical" width="48%" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar202108&layout=compact&theme=radical&hide_border=true" width="60%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar202108&layout=compact&theme=radical" width="60%" alt="Top Languages"/>
 </p>
 
-<!-- GitHub Contribution Snake Animation / Graph -->
+<!-- GitHub Contribution Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tushar202108&theme=react-dark&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tushar202108&theme=react-dark&area=true" width="100%" alt="Contribution Graph"/>
 </p>
 
 ---
 
 ### 📫 Connect With Me:
 <p align="left">
-  <a href="mailto:chaudhrytusar2000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/devchaudhary"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/tushar202108"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:chaudhrytusar2000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/devchaudhary"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/tushar202108"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 ---
