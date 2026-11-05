@@ -29,32 +29,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/>
 </p>
 
----
-
-### 📊 GitHub Stats & Metrics:
+### 📊 Profile Overview:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tushar202108&show_icons=true&theme=radical&count_private=true" width="48%" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com?user=tushar202108&theme=radical" width="48%" alt="GitHub Streak"/>
+  <img src="https://img.shields.io/badge/Profile-Tushar%20Chaudhary-blue?style=for-the-badge&logo=github" alt="Profile"/>
+  <img src="https://img.shields.io/badge/Role-Trainee%20Engineer%20@%20BEL-green?style=for-the-badge&logo=codeforces" alt="Role"/>
+  <img src="https://img.shields.io/badge/Focus-HPC%20%26%20Web%20Dev-orange?style=for-the-badge&logo=server" alt="Focus"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar202108&layout=compact&theme=radical" width="60%" alt="Top Languages"/>
-</p>
-
-<!-- GitHub Contribution Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tushar202108&theme=react-dark&area=true" width="100%" alt="Contribution Graph"/>
-</p>
-
----
-
-### 📫 Connect With Me:
-<p align="left">
-  <a href="mailto:chaudhrytusar2000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/devchaudhary"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/tushar202108"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
-
----
 
 ### 🚀 Let's Build Something Amazing Together! 🚀
