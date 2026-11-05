@@ -2,16 +2,17 @@
   
 <img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXlnYjA4MmR3ZnJ6cWJzMGRtNTVlZ3BkcThpdjA1MzN2MzBqcWFkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="100%" height="300"/>
 
-<h3 align="center">🚀 An enthusiastic and passionate developer specializing in High-Performance Computing, AI, and Web Technologies. 🚀</h3>
+<h3 align="center">🚀 Software & Web Developer | Ex-HPC Trainee @ CDAC | Building Scalable & High-Performance Solutions 🚀</h3>
 
 ---
 
 ### 🔥 About Me:
-- 🎓 Currently at **CDAC Bangalore**, majoring in **High-Performance Computing**.
-- 🔭 Working on **Weather Prediction**.
-- 🌱 Learning **Multiprocessing & Multiprogramming**.
-- 💻 Passionate about **AI, Web Development, and System Programming**.
-- ⚡ Love solving real-world problems with **technology and innovation**.
+- 💼 Currently working as a **Trainee Engineer at BEL (Bharat Electronics Limited)**, specializing in Web Development and robust software engineering.
+- 🎓 Alumni of **CDAC Bangalore**, where I specialized in **High-Performance Computing (HPC)**.
+- 🔭 Previously worked on advanced **Weather Prediction** systems and parallel computing architectures.
+- 🌱 Continuously exploring **Multiprocessing, Multiprogramming, and Modern Web Tech**.
+- 💻 Passionate about bridging the gap between **High-Performance Systems, AI, and Full-Stack Web Development**.
+- ⚡ Love solving complex, real-world problems with **clean code and innovative architecture**.
 
 ---
 
@@ -30,10 +31,19 @@
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats & Metrics:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tushar202108&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tushar202108&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tushar202108&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tushar202108&theme=radical&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar202108&layout=compact&theme=radical&hide_border=true" width="60%"/>
+</p>
+
+<!-- GitHub Contribution Snake Animation / Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tushar202108&theme=react-dark&hide_border=true&area=true" width="100%"/>
 </p>
 
 ---
@@ -48,4 +58,3 @@
 ---
 
 ### 🚀 Let's Build Something Amazing Together! 🚀
-
