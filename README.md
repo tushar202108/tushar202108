@@ -3,7 +3,7 @@
 <h3 align="center">Software Developer | Trainee Engineer @ BEL | HPC Enthusiast</h3>
 
 <p align="center">
-<img src="[https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXlnYjA4MmR3ZnJ6cWJzMGRtNTVlZ3BkcThpdjA1MzN2MzBqcWFkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHZpdWNlajJqY2FndGQ0NnVhOTZ0OHBoeW1uZTB6N212cThocDExeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif)" width="100%" height="280" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHZpdWNlajJqY2FndGQ0NnVhOTZ0OHBoeW1uZTB6N212cThocDExeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" height="280" />
 </p>
 
 <p align="center">
