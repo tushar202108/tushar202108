@@ -56,12 +56,14 @@ I specialize in software development and enjoy building scalable applications, d
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
 </p>
 
-📊 GitHub Statistics
+
+## 📊 GitHub Statistics
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tushar202108&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar202108&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img width="49%" src="./profile/stats.svg" alt="GitHub Stats"/>
+  <img width="49%" src="./profile/top-langs.svg" alt="Top Languages"/>
 </p>
+
 
 🔥 Contribution Streak
 
